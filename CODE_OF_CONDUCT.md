@@ -57,7 +57,7 @@ Every project, derivative work, research paper, or implementation that incorpora
 1. **Clear Attribution Statement**: A visible acknowledgment in the README, documentation, or principal interface stating:
    - The original project name: "Quantum-Inspired Key Generator"
    - The original author's name: Zeel
-   - A link to the original repository: https://github.com/zeefromzee/Quantum-KeyGen
+   - A link to the original repository:[Quantum-KeyGen](https://github.com/zeefromzee/Quantum-KeyGen)
 
 2. **License Inclusion**: The full text of the MIT License with Attribution Requirement must be included in all distributions and derivative works.
 
@@ -90,9 +90,9 @@ Licensed under MIT License with Attribution Requirement.
 
 If you become aware of behavior that violates this Code of Conduct, or if you observe license non-compliance, please report it through one of the following channels:
 
-1. **Email**: [YOUR EMAIL ADDRESS]
+1. **Email**: zeelg322@gmail.com
 2. **Repository Issues**: File a confidential report via the repository's issue tracker (mark as private if platform supports it)
-3. **Direct Message**: Contact the project maintainer through [PREFERRED PLATFORM]
+3. **Direct Message**: Contact the project maintainer through mail
 
 All reports will be reviewed and investigated promptly and with discretion.
 
@@ -114,7 +114,7 @@ Violations of this Code of Conduct may result in the following actions, at the s
 
 ### Appeals Process
 
-Individuals who believe they have been unfairly sanctioned may submit an appeal in writing to [YOUR EMAIL ADDRESS] within 30 days of the enforcement action. The appeal should include:
+Individuals who believe they have been unfairly sanctioned may submit an appeal in writing to zeelg322@gmail.com within 30 days of the enforcement action. The appeal should include:
 
 1. A description of the incident and the enforcement action taken
 2. Reasoning for why the action should be reconsidered
