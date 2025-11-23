@@ -10,7 +10,7 @@
 
 ## ⚠️ Important Notice
 
-**Before forking, using, or contributing to this repository, you must read and comply with the [Code of Conduct](CODE_OF_CONDUCT.md) and [License](LICENSE) requirements. All usage requires proper attribution to the original author. Violations will be addressed through appropriate legal channels.**
+**Before forking, using, or contributing to this repository, you must read and comply with the [Code of Conduct](CODE_OF_CONDUCT.md) . All usage requires proper attribution to the original author. Violations will be addressed through appropriate legal channels.**
 
 ---
 
