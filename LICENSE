@@ -1,0 +1,83 @@
+MIT License with Attribution Requirement
+
+Copyright (c) 2025 zeefromzee
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. ATTRIBUTION REQUIREMENT:
+   The above copyright notice, this permission notice, and the following
+   attribution statement SHALL be included in all copies or substantial
+   portions of the Software:
+   
+   "Based on the Quantum-Inspired Key Generator by zeefromzee
+    Original repository: https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION"
+
+2. The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+3. Any derivative works, modifications, or projects that incorporate this Software
+   must provide clear and visible attribution to the original author (zeefromzee)
+   in the following locations:
+   a) README or primary documentation file
+   b) Source code comments in modified files
+   c) User-facing interfaces (if applicable)
+   d) Academic citations (if used in research)
+
+4. The name "zeefromzee" and the project name "Quantum-Inspired Key Generator"
+   may not be used to endorse or promote products derived from this Software
+   without specific prior written permission.
+
+5. Redistribution of this Software or derivative works in source or binary form
+   must retain all copyright notices, this list of conditions, and the disclaimer
+   below.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+ADDITIONAL TERMS:
+
+SECURITY DISCLAIMER:
+This software is provided for educational, research, and experimental purposes.
+While the system achieves high statistical randomness metrics (98%+ NIST pass
+rates), it has not undergone formal security audit or certification. Users are
+solely responsible for:
+
+- Conducting independent security assessments before production deployment
+- Determining fitness for their specific use case
+- Complying with all applicable laws and regulations
+- Implementing appropriate security controls for their environment
+
+The author makes no representations or warranties regarding the suitability of
+this Software for cryptographic applications in production environments.
+
+REPORTING VIOLATIONS:
+Violations of the attribution requirement or any terms of this license should
+be reported to the copyright holder. The copyright holder reserves the right to:
+
+- Request immediate cessation of violating activities
+- File DMCA takedown notices with hosting providers
+- Pursue legal remedies including civil litigation
+- Seek statutory damages and attorney fees as provided by law
+
+CONTACT:
+For licensing inquiries, commercial use permissions, or to report violations:
+GitHub: https://github.com/zeefromzee
+
+---
+
+This license is based on the MIT License with additional attribution requirements
+to protect the intellectual property rights of the original author while maintaining
+open-source accessibility.
+
+License Version: 1.0
+Effective Date: January 2025
