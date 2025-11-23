@@ -520,7 +520,7 @@ This project draws inspiration from:
 ## Author
 
 **GitHub**: [@zeefromzee](https://github.com/zeefromzee)  
-**Repository**: [QUANTUM-SIMULATOR_KEY-GENERATION](https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION)  
+**Repository**: [Quantum-KeyGen](https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION)  
 **Project Status**: Active Development ★
 
 For questions, bug reports, or collaboration inquiries, please open an issue on GitHub.
