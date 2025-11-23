@@ -541,7 +541,7 @@ For questions, bug reports, or collaboration inquiries, please open an issue on 
 
 ---
 
-**Last Updated**: January 2025  
+**Last Updated**: November 2025  
 **License**: MIT with Attribution Requirement  
 **Status**: Production Ready for Research & Education ★
 
