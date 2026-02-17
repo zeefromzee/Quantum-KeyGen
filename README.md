@@ -183,8 +183,8 @@ scipy>=1.7.0
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION.git
-cd QUANTUM-SIMULATOR_KEY-GENERATION
+git clone https://github.com/zeefromzee/Quantum-KeyGen.git
+cd Quantum-KeyGen
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
@@ -456,7 +456,7 @@ If you use this software in academic research, technical reports, or publication
 ### APA Format
 ```
 zeefromzee. (2025). Quantum-Inspired Key Generator & NIST Randomness Test Suite 
-[Computer software]. GitHub. https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION
+[Computer software]. GitHub. https://github.com/zeefromzee/Quantum-KeyGen
 ```
 
 ### BibTeX Format
@@ -465,7 +465,7 @@ zeefromzee. (2025). Quantum-Inspired Key Generator & NIST Randomness Test Suite
   author = {zeefromzee},
   title = {Quantum-Inspired Key Generator \& NIST Randomness Test Suite},
   year = {2025},
-  url = {https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION},
+  url = {https://github.com/zeefromzee/Quantum-KeyGen},
   note = {Cryptographic-grade entropy harvesting system with 98\%+ NIST pass rate}
 }
 ```
@@ -474,7 +474,7 @@ zeefromzee. (2025). Quantum-Inspired Key Generator & NIST Randomness Test Suite
 ```
 zeefromzee, "Quantum-Inspired Key Generator & NIST Randomness Test Suite," 
 GitHub repository, 2025. [Online]. Available: 
-https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION
+https://github.com/zeefromzee/Quantum-KeyGen
 ```
 
 ---
@@ -497,7 +497,7 @@ Copyright © 2025 zeefromzee. All Rights Reserved.
 **Example Attribution:**
 ```
 Based on the Quantum-Inspired Key Generator by zeefromzee
-Original repository: https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION
+Original repository: https://github.com/zeefromzee/Quantum-KeyGen
 ```
 
 See [LICENSE](LICENSE) for complete terms and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for detailed attribution guidelines.
@@ -520,7 +520,7 @@ This project draws inspiration from:
 ## Author
 
 **GitHub**: [@zeefromzee](https://github.com/zeefromzee)  
-**Repository**: [Quantum-KeyGen](https://github.com/zeefromzee/QUANTUM-SIMULATOR_KEY-GENERATION)  
+**Repository**: [Quantum-KeyGen](https://github.com/zeefromzee/Quantum-KeyGen)  
 **Project Status**: Active Development ★
 
 For questions, bug reports, or collaboration inquiries, please open an issue on GitHub.
@@ -541,7 +541,7 @@ For questions, bug reports, or collaboration inquiries, please open an issue on 
 
 ---
 
-**Last Updated**: November 2025  
+**Last Updated**: February 2026  
 **License**: MIT with Attribution Requirement  
 **Status**: Production Ready for Research & Education ★
 
